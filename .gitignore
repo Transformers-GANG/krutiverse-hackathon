@@ -28,3 +28,6 @@ media/
 
 # macOS junk
 .DS_Store
+
+#enviroment variables
+.env
