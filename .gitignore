@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django local database and migrations
+db.sqlite3
+db.sqlite3-journal
+migrations/
+
+# Static and media files (if served locally during development)
+staticfiles/
+media/
+
+# Logs and temporary files
+*.log
+*.pot
+
+# IDE files
+.idea/
+*.sublime-workspace
+
+# macOS junk
+.DS_Store
